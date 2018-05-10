@@ -1,0 +1,6 @@
+<a href="../pp.html"> link </a>
+ ../ one level up from current
+https://www.w3schools.com/html/html_filepaths.asp
+
+<a href="../b/kk.html">link </a> 
+ ../ one level up from current + folder
