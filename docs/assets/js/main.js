@@ -1,6 +1,6 @@
 
 function changeBackground(num) {
-    var path = '../assets/images/bg' + num + '.jpg';
+    var path = 'assets/images/bg' + num + '.jpg';
     document.body.style.backgroundImage="url('" + path + "')";
 }
 
