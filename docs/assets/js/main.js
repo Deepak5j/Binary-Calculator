@@ -78,7 +78,6 @@ function answer() {
 
         default:
         operator = "";
-        alert('=');
         document.getElementById("ans").value = old;
     }
 }

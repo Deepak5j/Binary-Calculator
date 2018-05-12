@@ -1,6 +1,6 @@
 body {
     background-position: right bottom, left top;
-    background-repeat: repeat, repeat;
+    background-repeat: repeat;
     color: rgba(255, 255, 255, 1);
 }
 .bgtrans {
