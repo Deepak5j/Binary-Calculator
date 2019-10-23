@@ -1,5 +1,5 @@
 # Binary-Calculator
-##Basic arithmetic operation like addition, subtraction, multiplication and division on binary number.
+### Basic arithmetic operation like addition, subtraction, multiplication and division on binary number.
 
 ## [http://gautamxdeepak.ml/](http://gautamxdeepak.ml/)
 
